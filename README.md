@@ -240,5 +240,4 @@ Replace `<Your Organization>` with the appropriate holder.
 ---
 
 ## Contact
-- **Primary maintainer:** Your Name – your.email@example.com  
-- **Issue tracker:** Use the GitHub Issues page for bug reports, feature requests, or usage questions.
+- **Primary maintainer:** Shaunak Chittimalla - shaunakprof0328@gmail.com
